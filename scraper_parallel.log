@@ -1,0 +1,244 @@
+2025-06-15 20:50:33,847 - INFO - 🚀 Démarrage du script de scraping PARALLÈLE...
+2025-06-15 20:50:33,851 - INFO - 📄 Fichier CSV créé avec les en-têtes
+2025-06-15 20:50:33,852 - INFO - Configuration du driver Chrome...
+2025-06-15 20:50:35,447 - INFO - 📄 Récupération des liens - Page 1
+2025-06-15 20:50:37,717 - INFO - Nombre d'entreprises trouvées sur la page: 39
+2025-06-15 20:50:37,718 - INFO - 📄 Récupération des liens - Page 2
+2025-06-15 20:50:38,753 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:50:38,753 - INFO - 📄 Récupération des liens - Page 3
+2025-06-15 20:50:39,411 - INFO - Nombre d'entreprises trouvées sur la page: 38
+2025-06-15 20:50:39,411 - INFO - 📄 Récupération des liens - Page 4
+2025-06-15 20:50:40,083 - INFO - Nombre d'entreprises trouvées sur la page: 39
+2025-06-15 20:50:40,083 - INFO - 📄 Récupération des liens - Page 5
+2025-06-15 20:50:40,755 - INFO - Nombre d'entreprises trouvées sur la page: 39
+2025-06-15 20:50:40,755 - INFO - 📄 Récupération des liens - Page 6
+2025-06-15 20:50:41,480 - INFO - Nombre d'entreprises trouvées sur la page: 39
+2025-06-15 20:50:41,481 - INFO - 📄 Récupération des liens - Page 7
+2025-06-15 20:50:42,147 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:50:42,147 - INFO - 📄 Récupération des liens - Page 8
+2025-06-15 20:50:42,893 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:50:42,893 - INFO - 📄 Récupération des liens - Page 9
+2025-06-15 20:50:43,854 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:50:43,854 - INFO - 📄 Récupération des liens - Page 10
+2025-06-15 20:50:44,791 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:50:44,792 - INFO - 📊 Total de liens récupérés: 394
+2025-06-15 20:50:44,792 - INFO - 📄 Récupération des liens - Page 11
+2025-06-15 20:50:45,658 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:50:45,659 - INFO - 📄 Récupération des liens - Page 12
+2025-06-15 20:50:46,762 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:50:46,762 - INFO - 📄 Récupération des liens - Page 13
+2025-06-15 20:50:47,774 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:50:47,776 - INFO - 📄 Récupération des liens - Page 14
+2025-06-15 20:50:48,905 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:50:48,905 - INFO - 📄 Récupération des liens - Page 15
+2025-06-15 20:50:50,023 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:50:50,023 - INFO - 📄 Récupération des liens - Page 16
+2025-06-15 20:50:51,620 - INFO - Nombre d'entreprises trouvées sur la page: 39
+2025-06-15 20:50:51,621 - INFO - 📄 Récupération des liens - Page 17
+2025-06-15 20:50:53,128 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:50:53,128 - INFO - 📄 Récupération des liens - Page 18
+2025-06-15 20:50:54,710 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:50:54,710 - INFO - 📄 Récupération des liens - Page 19
+2025-06-15 20:50:56,211 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:50:56,212 - INFO - 📄 Récupération des liens - Page 20
+2025-06-15 20:50:58,016 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:50:58,017 - INFO - 📊 Total de liens récupérés: 793
+2025-06-15 20:50:58,017 - INFO - 📄 Récupération des liens - Page 21
+2025-06-15 20:50:59,586 - INFO - Nombre d'entreprises trouvées sur la page: 39
+2025-06-15 20:50:59,586 - INFO - 📄 Récupération des liens - Page 22
+2025-06-15 20:51:01,175 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:51:01,175 - INFO - 📄 Récupération des liens - Page 23
+2025-06-15 20:51:02,999 - INFO - Nombre d'entreprises trouvées sur la page: 39
+2025-06-15 20:51:03,000 - INFO - 📄 Récupération des liens - Page 24
+2025-06-15 20:51:04,533 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:51:04,533 - INFO - 📄 Récupération des liens - Page 25
+2025-06-15 20:51:06,015 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:51:06,015 - INFO - 📄 Récupération des liens - Page 26
+2025-06-15 20:51:07,855 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:51:07,855 - INFO - 📄 Récupération des liens - Page 27
+2025-06-15 20:51:09,525 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:51:09,525 - INFO - 📄 Récupération des liens - Page 28
+2025-06-15 20:51:11,020 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:51:11,021 - INFO - 📄 Récupération des liens - Page 29
+2025-06-15 20:51:12,920 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:51:12,920 - INFO - 📄 Récupération des liens - Page 30
+2025-06-15 20:51:14,316 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:51:14,316 - INFO - 📊 Total de liens récupérés: 1191
+2025-06-15 20:51:14,316 - INFO - 📄 Récupération des liens - Page 31
+2025-06-15 20:51:15,818 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:51:15,818 - INFO - 📄 Récupération des liens - Page 32
+2025-06-15 20:51:17,365 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:51:17,365 - INFO - 📄 Récupération des liens - Page 33
+2025-06-15 20:51:18,847 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:51:18,847 - INFO - 📄 Récupération des liens - Page 34
+2025-06-15 20:51:20,201 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:51:20,201 - INFO - 📄 Récupération des liens - Page 35
+2025-06-15 20:51:21,892 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:51:21,892 - INFO - 📄 Récupération des liens - Page 36
+2025-06-15 20:51:23,372 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:51:23,372 - INFO - 📄 Récupération des liens - Page 37
+2025-06-15 20:51:24,975 - INFO - Nombre d'entreprises trouvées sur la page: 39
+2025-06-15 20:51:24,975 - INFO - 📄 Récupération des liens - Page 38
+2025-06-15 20:51:26,668 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:51:26,668 - INFO - 📄 Récupération des liens - Page 39
+2025-06-15 20:51:28,324 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:51:28,324 - INFO - 📄 Récupération des liens - Page 40
+2025-06-15 20:51:29,776 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:51:29,776 - INFO - 📊 Total de liens récupérés: 1590
+2025-06-15 20:51:29,776 - INFO - 📄 Récupération des liens - Page 41
+2025-06-15 20:51:31,263 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:51:31,263 - INFO - 📄 Récupération des liens - Page 42
+2025-06-15 20:51:32,740 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:51:32,740 - INFO - 📄 Récupération des liens - Page 43
+2025-06-15 20:51:34,613 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:51:34,614 - INFO - 📄 Récupération des liens - Page 44
+2025-06-15 20:51:36,206 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:51:36,206 - INFO - 📄 Récupération des liens - Page 45
+2025-06-15 20:51:37,886 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:51:37,886 - INFO - 📄 Récupération des liens - Page 46
+2025-06-15 20:51:39,333 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:51:39,333 - INFO - 📄 Récupération des liens - Page 47
+2025-06-15 20:51:40,813 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:51:40,813 - INFO - 📄 Récupération des liens - Page 48
+2025-06-15 20:51:42,229 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:51:42,229 - INFO - 📄 Récupération des liens - Page 49
+2025-06-15 20:51:43,838 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:51:43,838 - INFO - 📄 Récupération des liens - Page 50
+2025-06-15 20:51:45,246 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:51:45,246 - INFO - 📊 Total de liens récupérés: 1990
+2025-06-15 20:51:45,246 - INFO - 📄 Récupération des liens - Page 51
+2025-06-15 20:51:47,204 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:51:47,205 - INFO - 📄 Récupération des liens - Page 52
+2025-06-15 20:51:49,689 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:51:49,689 - INFO - 📄 Récupération des liens - Page 53
+2025-06-15 20:51:51,338 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:51:51,339 - INFO - 📄 Récupération des liens - Page 54
+2025-06-15 20:51:52,802 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:51:52,802 - INFO - 📄 Récupération des liens - Page 55
+2025-06-15 20:51:54,291 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:51:54,291 - INFO - 📄 Récupération des liens - Page 56
+2025-06-15 20:51:56,003 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:51:56,003 - INFO - 📄 Récupération des liens - Page 57
+2025-06-15 20:51:57,728 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:51:57,728 - INFO - 📄 Récupération des liens - Page 58
+2025-06-15 20:51:59,352 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:51:59,352 - INFO - 📄 Récupération des liens - Page 59
+2025-06-15 20:52:00,830 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:52:00,831 - INFO - 📄 Récupération des liens - Page 60
+2025-06-15 20:52:02,439 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:52:02,439 - INFO - 📊 Total de liens récupérés: 2390
+2025-06-15 20:52:02,439 - INFO - 📄 Récupération des liens - Page 61
+2025-06-15 20:52:03,974 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:52:03,975 - INFO - 📄 Récupération des liens - Page 62
+2025-06-15 20:52:06,049 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:52:06,049 - INFO - 📄 Récupération des liens - Page 63
+2025-06-15 20:52:07,616 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:52:07,616 - INFO - 📄 Récupération des liens - Page 64
+2025-06-15 20:52:09,191 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:52:09,191 - INFO - 📄 Récupération des liens - Page 65
+2025-06-15 20:52:10,717 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:52:10,717 - INFO - 📄 Récupération des liens - Page 66
+2025-06-15 20:52:12,173 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:52:12,174 - INFO - 📄 Récupération des liens - Page 67
+2025-06-15 20:52:13,809 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:52:13,809 - INFO - 📄 Récupération des liens - Page 68
+2025-06-15 20:52:15,353 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:52:15,353 - INFO - 📄 Récupération des liens - Page 69
+2025-06-15 20:52:16,855 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:52:16,855 - INFO - 📄 Récupération des liens - Page 70
+2025-06-15 20:52:18,709 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:52:18,773 - INFO - 📊 Total de liens récupérés: 2790
+2025-06-15 20:52:18,773 - INFO - 📄 Récupération des liens - Page 71
+2025-06-15 20:52:20,433 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:52:20,434 - INFO - 📄 Récupération des liens - Page 72
+2025-06-15 20:52:22,000 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:52:22,000 - INFO - 📄 Récupération des liens - Page 73
+2025-06-15 20:52:23,555 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:52:23,556 - INFO - 📄 Récupération des liens - Page 74
+2025-06-15 20:52:25,033 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:52:25,033 - INFO - 📄 Récupération des liens - Page 75
+2025-06-15 20:52:26,577 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:52:26,577 - INFO - 📄 Récupération des liens - Page 76
+2025-06-15 20:52:28,019 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:52:28,019 - INFO - 📄 Récupération des liens - Page 77
+2025-06-15 20:52:29,594 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:52:29,595 - INFO - 📄 Récupération des liens - Page 78
+2025-06-15 20:52:31,047 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:52:31,047 - INFO - 📄 Récupération des liens - Page 79
+2025-06-15 20:52:32,468 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:52:32,469 - INFO - 📄 Récupération des liens - Page 80
+2025-06-15 20:52:33,980 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:52:33,980 - INFO - 📊 Total de liens récupérés: 3190
+2025-06-15 20:52:33,980 - INFO - 📄 Récupération des liens - Page 81
+2025-06-15 20:52:35,550 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:52:35,550 - INFO - 📄 Récupération des liens - Page 82
+2025-06-15 20:52:37,175 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:52:37,175 - INFO - 📄 Récupération des liens - Page 83
+2025-06-15 20:52:38,681 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:52:38,681 - INFO - 📄 Récupération des liens - Page 84
+2025-06-15 20:52:40,372 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:52:40,372 - INFO - 📄 Récupération des liens - Page 85
+2025-06-15 20:52:41,747 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:52:41,747 - INFO - 📄 Récupération des liens - Page 86
+2025-06-15 20:52:43,182 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:52:43,183 - INFO - 📄 Récupération des liens - Page 87
+2025-06-15 20:52:44,634 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:52:44,634 - INFO - 📄 Récupération des liens - Page 88
+2025-06-15 20:52:46,243 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:52:46,243 - INFO - 📄 Récupération des liens - Page 89
+2025-06-15 20:52:47,720 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:52:47,721 - INFO - 📄 Récupération des liens - Page 90
+2025-06-15 20:52:49,074 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:52:49,074 - INFO - 📊 Total de liens récupérés: 3590
+2025-06-15 20:52:49,074 - INFO - 📄 Récupération des liens - Page 91
+2025-06-15 20:52:50,688 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:52:50,688 - INFO - 📄 Récupération des liens - Page 92
+2025-06-15 20:52:52,417 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:52:52,417 - INFO - 📄 Récupération des liens - Page 93
+2025-06-15 20:52:54,307 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:52:54,307 - INFO - 📄 Récupération des liens - Page 94
+2025-06-15 20:52:55,845 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:52:55,845 - INFO - 📄 Récupération des liens - Page 95
+2025-06-15 20:52:57,589 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:52:57,589 - INFO - 📄 Récupération des liens - Page 96
+2025-06-15 20:52:59,073 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:52:59,073 - INFO - 📄 Récupération des liens - Page 97
+2025-06-15 20:53:00,606 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:53:00,606 - INFO - 📄 Récupération des liens - Page 98
+2025-06-15 20:53:02,121 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:53:02,121 - INFO - 📄 Récupération des liens - Page 99
+2025-06-15 20:53:03,950 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:53:03,950 - INFO - 📄 Récupération des liens - Page 100
+2025-06-15 20:53:05,391 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:53:05,391 - INFO - 📊 Total de liens récupérés: 3990
+2025-06-15 20:53:05,391 - INFO - 📄 Récupération des liens - Page 101
+2025-06-15 20:53:06,866 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:53:06,867 - INFO - 📄 Récupération des liens - Page 102
+2025-06-15 20:53:08,219 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:53:08,220 - INFO - 📄 Récupération des liens - Page 103
+2025-06-15 20:53:10,411 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:53:10,413 - INFO - 📄 Récupération des liens - Page 104
+2025-06-15 20:53:11,851 - INFO - Nombre d'entreprises trouvées sur la page: 40
+2025-06-15 20:53:11,851 - INFO - 📄 Récupération des liens - Page 105
+2025-06-15 20:53:12,812 - INFO - Nombre d'entreprises trouvées sur la page: 21
+2025-06-15 20:53:12,812 - INFO - 🎯 Total final de liens: 4171
+2025-06-15 20:53:12,814 - INFO - Configuration du driver Chrome...
+2025-06-15 20:53:12,814 - INFO - Configuration du driver Chrome...
+2025-06-15 20:53:12,815 - INFO - Configuration du driver Chrome...
+2025-06-15 20:53:12,815 - INFO - Configuration du driver Chrome...
+2025-06-15 20:53:12,816 - INFO - Configuration du driver Chrome...
+2025-06-15 20:53:12,816 - INFO - Configuration du driver Chrome...
+2025-06-15 20:53:12,816 - INFO - Configuration du driver Chrome...
+2025-06-15 20:53:12,818 - INFO - Configuration du driver Chrome...
+2025-06-15 20:53:12,820 - INFO - Configuration du driver Chrome...
+2025-06-15 20:53:12,824 - INFO - Configuration du driver Chrome...
+2025-06-15 20:53:16,889 - INFO - Worker - Tentative de scraping pour l'URL: https://www.trustpilot.com/review/boothbee.com
+2025-06-15 20:53:16,901 - INFO - Worker - Tentative de scraping pour l'URL: https://www.trustpilot.com/review/bottinsarl.com
+2025-06-15 20:53:17,124 - INFO - Worker - Tentative de scraping pour l'URL: https://www.trustpilot.com/review/vinted.fr
+2025-06-15 20:53:16,933 - INFO - Worker - Tentative de scraping pour l'URL: https://www.trustpilot.com/review/www.sarenza.com
+2025-06-15 20:53:16,963 - INFO - Worker - Tentative de scraping pour l'URL: https://www.trustpilot.com/review/footkorner.com
+2025-06-15 20:53:17,103 - INFO - Worker - Tentative de scraping pour l'URL: https://www.trustpilot.com/review/offrandes.com
+2025-06-15 20:53:16,945 - INFO - Worker - Tentative de scraping pour l'URL: https://www.trustpilot.com/review/cqfd-avignon.fr
+2025-06-15 20:53:17,166 - INFO - Worker - Tentative de scraping pour l'URL: https://www.trustpilot.com/review/fuzz-bayonne.com
+2025-06-15 20:53:17,199 - INFO - Worker - Tentative de scraping pour l'URL: https://www.trustpilot.com/review/www.universdujapon.com
+2025-06-15 20:53:17,218 - INFO - Worker - Tentative de scraping pour l'URL: https://www.trustpilot.com/review/indieidentity.com
